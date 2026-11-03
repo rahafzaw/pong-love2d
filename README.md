@@ -115,3 +115,7 @@ To submit, publish this existing local repository as a **public** GitHub reposit
 - [LÖVE: love.keyboard.isDown](https://love2d.org/wiki/love.keyboard.isDown)
 
 The implementation follows the written assignment requirements. The linked video pages could not be retrieved in the build environment, so this is not a verified line-by-line reproduction of the videos.
+
+## Validation
+
+Tested with LÖVE 11.5 and Lua 5.4. All 15 automated checks passed. The screenshot and the 22-second, 960×600 demo were captured from the running LÖVE game.
